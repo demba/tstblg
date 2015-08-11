@@ -6,31 +6,31 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://mssngwnkl.com/</loc>
+  <loc>http://demba.github.io/tstblg/</loc>
   <lastmod>2015-08-11T20:31:00Z</lastmod>
  </url>
  <url>
-  <loc>http://mssngwnkl.com/2015/</loc>
+  <loc>http://demba.github.io/tstblg/2015/</loc>
   <lastmod>2015-08-11T20:31:00Z</lastmod>
  </url>
  <url>
-  <loc>http://mssngwnkl.com/archive.html</loc>
-  <lastmod>2015-08-11T20:31:00Z</lastmod>
+  <loc>http://demba.github.io/tstblg/archive.html</loc>
+  <lastmod>2015-08-11T20:49:00Z</lastmod>
  </url>
  <url>
-  <loc>http://mssngwnkl.com/categories/</loc>
+  <loc>http://demba.github.io/tstblg/categories/</loc>
   <lastmod>2015-08-11T20:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://mssngwnkl.com/galleries/</loc>
+  <loc>http://demba.github.io/tstblg/galleries/</loc>
   <lastmod>2015-08-11T20:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://mssngwnkl.com/listings/</loc>
+  <loc>http://demba.github.io/tstblg/listings/</loc>
   <lastmod>2015-08-11T20:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://mssngwnkl.com/posts/first-test-post/</loc>
+  <loc>http://demba.github.io/tstblg/posts/first-test-post/</loc>
   <lastmod>2015-08-11T20:31:00Z</lastmod>
  </url>
 </urlset>
